@@ -1,3 +1,5 @@
+#Varimax Rotation Function
+
 varimax = function (x, normalize = TRUE, eps = 1e-05) 
 {
   nc <- ncol(x)
